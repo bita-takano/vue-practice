@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "text": "to eat lunch", "done": true },
+    { "id": 2, "text": "to sleeping", "done": true },
+    { "id": 3, "text": "to working", "done": true }
+  ]
+}
